@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+	"name": "USA",
+    "region": "US",
+    "data": 290,
+    "coordinates": [-100.0902, 40.7129]
+  },
+  {
+    "id": 2,
+	"name": "USA",
+    "region": "US",
+    "data": 490,
+    "coordinates": [-100.0902, 40.7129]
+  },
+  {
+    "id": 3,
+    "region": "AT",
+    "data": 790
+  },
+  {
+    "id": 4,
+    "region": "SE",
+    "data": 590
+  },
+  {
+    "id": 5,
+    "region": "AT",
+    "data": 290
+  },
+  {
+    "id": 6,
+    "region": "SE",
+    "data": 390
+  }
+]
